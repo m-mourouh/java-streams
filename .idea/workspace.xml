@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2d72972-52b2-48d6-b15b-7c428d8c0ac8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-streams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise1/Main.java" afterDir="false" />
+    <list default="true" id="e2d72972-52b2-48d6-b15b-7c428d8c0ac8" name="Changes" comment="Java streams: Add exercise 1">
+      <change afterPath="$PROJECT_DIR$/src/exercise2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2dkMpOA7CWvdyYliFE4XjenDHQ5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,11 +58,25 @@
       <option name="presentableId" value="Default" />
       <updated>1710547806585</updated>
       <workItem from="1710547807964" duration="1823000" />
-      <workItem from="1710598803205" duration="670000" />
+      <workItem from="1710598803205" duration="2093000" />
+      <workItem from="1710604183619" duration="4636000" />
     </task>
+    <task id="LOCAL-00001" summary="Java streams: Add exercise 1">
+      <option name="closed" value="true" />
+      <created>1710599715919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710599715919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java streams: Add exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java streams: Add exercise 1" />
   </component>
 </project>
